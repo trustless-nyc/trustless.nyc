@@ -1,7 +1,0 @@
-{
-  "trustless": {
-    "configLevel": "project",
-    "useProfile": true,
-    "profileName": "trustless-website"
-  }
-}
